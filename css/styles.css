@@ -73,6 +73,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
+}
+
+.header-menu-list {
   /* 3 дз */
   padding: 24px 0;
 }
@@ -408,7 +411,7 @@ img {
 .header-navigation {
   display: flex;
   align-items: center;
-  gap: 76px;
+  /* gap: 76px; */
 }
 
-/* hw3-version3-header2 */
+/* hw3-version3-header6 */
