@@ -376,8 +376,8 @@ img {
 
 .container {
   max-width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
+
   margin: 0 auto;
   /* тимчасово */
   /* outline: 2px solid red; */
@@ -411,4 +411,4 @@ img {
   gap: 76px;
 }
 
-/* hw3-version2-header1 */
+/* hw3-version3-header2 */
