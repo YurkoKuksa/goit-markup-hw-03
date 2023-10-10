@@ -359,6 +359,7 @@ body {
   /* margin: 32px 0; */
   padding: 32px 16px;
   border: 1px solid var(--border-color);
+  border-top: none;
 }
 
 /* =============================================== */
@@ -443,4 +444,4 @@ img {
   /* gap: 76px; */
 }
 
-/* hw3-version5-portfolio6 */
+/* hw3-version5-portfolio7 */
