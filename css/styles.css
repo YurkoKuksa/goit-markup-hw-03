@@ -383,7 +383,7 @@ img {
   /* outline: 2px solid red; */
 }
 
-.header {
+.header-main {
   /* geometry */
   padding-top: 24px;
   padding-bottom: 24px;
@@ -400,7 +400,7 @@ img {
   gap: 40px;
 }
 
-.header-box {
+.header {
   display: flex;
   gap: 332px;
 }
