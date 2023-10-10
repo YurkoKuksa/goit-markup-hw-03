@@ -73,12 +73,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
-}
-
-.header-menu-list {
   /* 3 дз */
   padding: 24px 0;
 }
+
+/* .header-menu-list {} */
 
 .header-link-address {
   color: var(--body-color);
