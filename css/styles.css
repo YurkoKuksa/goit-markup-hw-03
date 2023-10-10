@@ -58,6 +58,8 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  /* 3 дз */
+  margin-right: 76px;
 }
 
 .span-logo {
@@ -71,6 +73,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
+  /* 3 дз */
+  padding: 24px 0;
 }
 
 .header-link-address {
@@ -379,7 +383,7 @@ img {
   /* outline: 2px solid red; */
 }
 
-header {
+.header {
   /* geometry */
   padding-top: 24px;
   padding-bottom: 24px;
@@ -407,4 +411,4 @@ header {
   gap: 76px;
 }
 
-/* hw3-version1-css */
+/* hw3-version2-header1 */
