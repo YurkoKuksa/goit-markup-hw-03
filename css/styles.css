@@ -314,9 +314,9 @@ body {
 .ul-portfolio-buttons {
   display: flex;
   justify-content: center;
-  padding-bottom: 72px;
+  /* padding-bottom: 72px;
   padding-left: 271px;
-  padding-right: 271px;
+  padding-right: 271px; */
   margin-bottom: 72px;
 }
 
