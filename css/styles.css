@@ -341,18 +341,12 @@ body {
 
 .portfolio-list-view {
   margin-bottom: 48px;
-
   width: 360px;
 }
 
 .title-portfolio {
   /* Geometry */
   margin-bottom: 8px;
-}
-
-.paragraph-portfolio {
-  /* Geometry */
-  /* margin-bottom: 32px; */
 }
 
 .ul-portfolio-list {
@@ -362,7 +356,7 @@ body {
 }
 
 .portfolio-ietm-box {
-  margin: 32px 0;
+  /* margin: 32px 0; */
   padding: 32px 16px;
   border: 1px solid var(--border-color);
 }
@@ -449,4 +443,4 @@ img {
   /* gap: 76px; */
 }
 
-/* hw3-version5-portfolio5 */
+/* hw3-version5-portfolio6 */
